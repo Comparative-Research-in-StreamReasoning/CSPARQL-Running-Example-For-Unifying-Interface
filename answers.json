@@ -1,0 +1,347 @@
+[
+  {
+    "queryId": "Q1",
+    "variableBindings": [
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200270115dc5da7-4b64-4a64-9aba-ce446035c67b",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200243064ea7e8d-d7f4-4ea3-b69d-e6c17bfb5851",
+          "\"0.023483365949119372\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"9.685230024213075E-4\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      }
+    ],
+    "memoryConsumptionInMB": 66.85994720458984,
+    "timestamp": 1638742645434
+  },
+  {
+    "queryId": "Q1",
+    "variableBindings": [
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22003599940fc055-7366-4190-994c-5a60c3a1dbd2",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220033289c826be0-278c-4412-bbab-9b8531f97b31",
+          "\"0.009784735812133072\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.001937046004842615\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22003599940fc055-7366-4190-994c-5a60c3a1dbd2",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200287903d2fb33-200f-4b14-8bce-c768b739d705",
+          "\"0.009784735812133072\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"9.685230024213075E-4\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22003599940fc055-7366-4190-994c-5a60c3a1dbd2",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200243064ea7e8d-d7f4-4ea3-b69d-e6c17bfb5851",
+          "\"0.009784735812133072\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"9.685230024213075E-4\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22003150d5e639e9-9fb9-4bf5-b791-2e78e163169a",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220033289c826be0-278c-4412-bbab-9b8531f97b31",
+          "\"0.015655577299412915\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.001937046004842615\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22003150d5e639e9-9fb9-4bf5-b791-2e78e163169a",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200287903d2fb33-200f-4b14-8bce-c768b739d705",
+          "\"0.015655577299412915\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"9.685230024213075E-4\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22003150d5e639e9-9fb9-4bf5-b791-2e78e163169a",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200243064ea7e8d-d7f4-4ea3-b69d-e6c17bfb5851",
+          "\"0.015655577299412915\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"9.685230024213075E-4\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200270115dc5da7-4b64-4a64-9aba-ce446035c67b",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220033289c826be0-278c-4412-bbab-9b8531f97b31",
+          "\"0.023483365949119372\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.001937046004842615\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200270115dc5da7-4b64-4a64-9aba-ce446035c67b",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200287903d2fb33-200f-4b14-8bce-c768b739d705",
+          "\"0.023483365949119372\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"9.685230024213075E-4\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200270115dc5da7-4b64-4a64-9aba-ce446035c67b",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200243064ea7e8d-d7f4-4ea3-b69d-e6c17bfb5851",
+          "\"0.023483365949119372\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"9.685230024213075E-4\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      }
+    ],
+    "memoryConsumptionInMB": 61.52720642089844,
+    "timestamp": 1638742645729
+  },
+  {
+    "queryId": "Q1",
+    "variableBindings": [
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22004048afa518b7-a275-4921-8b7a-aff4e6c821d3",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200377720b81645-f20b-4efb-b19c-c12f2a967640",
+          "\"0.019569471624266144\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.001937046004842615\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22004048afa518b7-a275-4921-8b7a-aff4e6c821d3",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220033289c826be0-278c-4412-bbab-9b8531f97b31",
+          "\"0.019569471624266144\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.001937046004842615\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22004048afa518b7-a275-4921-8b7a-aff4e6c821d3",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200287903d2fb33-200f-4b14-8bce-c768b739d705",
+          "\"0.019569471624266144\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"9.685230024213075E-4\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22003599940fc055-7366-4190-994c-5a60c3a1dbd2",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200377720b81645-f20b-4efb-b19c-c12f2a967640",
+          "\"0.009784735812133072\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.001937046004842615\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22003599940fc055-7366-4190-994c-5a60c3a1dbd2",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220033289c826be0-278c-4412-bbab-9b8531f97b31",
+          "\"0.009784735812133072\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.001937046004842615\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22003599940fc055-7366-4190-994c-5a60c3a1dbd2",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200287903d2fb33-200f-4b14-8bce-c768b739d705",
+          "\"0.009784735812133072\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"9.685230024213075E-4\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22003150d5e639e9-9fb9-4bf5-b791-2e78e163169a",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200377720b81645-f20b-4efb-b19c-c12f2a967640",
+          "\"0.015655577299412915\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.001937046004842615\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22003150d5e639e9-9fb9-4bf5-b791-2e78e163169a",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220033289c826be0-278c-4412-bbab-9b8531f97b31",
+          "\"0.015655577299412915\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.001937046004842615\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22003150d5e639e9-9fb9-4bf5-b791-2e78e163169a",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200287903d2fb33-200f-4b14-8bce-c768b739d705",
+          "\"0.015655577299412915\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"9.685230024213075E-4\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      }
+    ],
+    "memoryConsumptionInMB": 61.606964111328125,
+    "timestamp": 1638742646289
+  },
+  {
+    "queryId": "Q1",
+    "variableBindings": [
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220044979530c3e5-cd6e-4278-af7e-53be858b1a9c",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22004226743707f6-459e-4d0a-bda8-e20345da98a3",
+          "\"0.03131115459882583\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.0029055690072639223\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220044979530c3e5-cd6e-4278-af7e-53be858b1a9c",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200377720b81645-f20b-4efb-b19c-c12f2a967640",
+          "\"0.03131115459882583\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.001937046004842615\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22004048afa518b7-a275-4921-8b7a-aff4e6c821d3",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22004226743707f6-459e-4d0a-bda8-e20345da98a3",
+          "\"0.019569471624266144\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.0029055690072639223\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22004048afa518b7-a275-4921-8b7a-aff4e6c821d3",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200377720b81645-f20b-4efb-b19c-c12f2a967640",
+          "\"0.019569471624266144\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.001937046004842615\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      }
+    ],
+    "memoryConsumptionInMB": 61.59684753417969,
+    "timestamp": 1638742647273
+  },
+  {
+    "queryId": "Q1",
+    "variableBindings": [
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220049467acf5d54-becf-43cc-ab17-c7622a57f758",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220046755434f705-96ac-4ee8-b722-08c934f0394a",
+          "\"0.033268101761252444\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.0029055690072639223\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220049467acf5d54-becf-43cc-ab17-c7622a57f758",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22004226743707f6-459e-4d0a-bda8-e20345da98a3",
+          "\"0.033268101761252444\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.0029055690072639223\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220049467acf5d54-becf-43cc-ab17-c7622a57f758",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200377720b81645-f20b-4efb-b19c-c12f2a967640",
+          "\"0.033268101761252444\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.001937046004842615\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220044979530c3e5-cd6e-4278-af7e-53be858b1a9c",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220046755434f705-96ac-4ee8-b722-08c934f0394a",
+          "\"0.03131115459882583\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.0029055690072639223\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220044979530c3e5-cd6e-4278-af7e-53be858b1a9c",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22004226743707f6-459e-4d0a-bda8-e20345da98a3",
+          "\"0.03131115459882583\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.0029055690072639223\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220044979530c3e5-cd6e-4278-af7e-53be858b1a9c",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200377720b81645-f20b-4efb-b19c-c12f2a967640",
+          "\"0.03131115459882583\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.001937046004842615\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22004048afa518b7-a275-4921-8b7a-aff4e6c821d3",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220046755434f705-96ac-4ee8-b722-08c934f0394a",
+          "\"0.019569471624266144\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.0029055690072639223\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22004048afa518b7-a275-4921-8b7a-aff4e6c821d3",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22004226743707f6-459e-4d0a-bda8-e20345da98a3",
+          "\"0.019569471624266144\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.0029055690072639223\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22004048afa518b7-a275-4921-8b7a-aff4e6c821d3",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-2200377720b81645-f20b-4efb-b19c-c12f2a967640",
+          "\"0.019569471624266144\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.001937046004842615\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      }
+    ],
+    "memoryConsumptionInMB": 61.63349914550781,
+    "timestamp": 1638742648253
+  },
+  {
+    "queryId": "Q1",
+    "variableBindings": [
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220049467acf5d54-becf-43cc-ab17-c7622a57f758",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220046755434f705-96ac-4ee8-b722-08c934f0394a",
+          "\"0.033268101761252444\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.0029055690072639223\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220049467acf5d54-becf-43cc-ab17-c7622a57f758",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22004226743707f6-459e-4d0a-bda8-e20345da98a3",
+          "\"0.033268101761252444\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.0029055690072639223\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220044979530c3e5-cd6e-4278-af7e-53be858b1a9c",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220046755434f705-96ac-4ee8-b722-08c934f0394a",
+          "\"0.03131115459882583\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.0029055690072639223\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      },
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220044979530c3e5-cd6e-4278-af7e-53be858b1a9c",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-22004226743707f6-459e-4d0a-bda8-e20345da98a3",
+          "\"0.03131115459882583\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.0029055690072639223\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      }
+    ],
+    "memoryConsumptionInMB": 61.61949157714844,
+    "timestamp": 1638742649280
+  },
+  {
+    "queryId": "Q1",
+    "variableBindings": [
+      {
+        "variableValuesAsString": [
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220049467acf5d54-becf-43cc-ab17-c7622a57f758",
+          "http://localhost/CityBenchDataStream/SampleEventService#AarhusTrafficObservation-220046755434f705-96ac-4ee8-b722-08c934f0394a",
+          "\"0.033268101761252444\"^^http://www.w3.org/2001/XMLSchema#double",
+          "\"0.0029055690072639223\"^^http://www.w3.org/2001/XMLSchema#double"
+        ]
+      }
+    ],
+    "memoryConsumptionInMB": 61.60400390625,
+    "timestamp": 1638742650251
+  }
+]
